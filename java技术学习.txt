@@ -1,0 +1,5 @@
+https://github.com/Wasabi1234/Java-Interview-Tutorial
+
+https://github.com/CarpenterLee/JavaLambdaInternals
+
+https://github.com/dunwu/java-tutorial
